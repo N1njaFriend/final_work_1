@@ -17,7 +17,7 @@
 * [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 * [“Russia”, “Denmark”, “Kazan”] → []
 
-[__Блок схема кода__](https://github.com/N1njaFriend/final_work_1/blob/main/scheme.jpg)
+![__Блок схема кода__](https://github.com/N1njaFriend/final_work_1/blob/main/scheme.jpg)
 
 # В первом вариате кода пользователю позволенно ввести произвольный массив
 
